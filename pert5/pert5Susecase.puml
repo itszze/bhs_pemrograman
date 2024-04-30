@@ -1,6 +1,6 @@
 @startuml pert5
 
-eft to right direction
+left to right direction
 
 actor User as "User"
 
@@ -20,16 +20,16 @@ rectangle "Source code pert4" {
     User --> Input  
     input --> menu : Choice Menu
     menu --> kurang
-    tambah --> exit
+    kurang --> exit
 
     User --> Input  
     input --> menu : Choice Menu
     menu --> kali
-    tambah --> exit
+    kali --> exit
 
     User --> Input  
     input --> menu : Choice Menu
     menu --> bagi
-    tambah --> exit
+    bagi --> exit
 
     @enduml
