@@ -1,0 +1,21 @@
+@startuml pert5
+:start;
+:pilihan menu;
+
+    if (pilih makanan) then
+        :makanan;
+        :pecel lele;
+        :nasgor;
+    else if (pilih minuman) then
+        :minuman;
+        :air mineral;
+        :teh;
+    else if (exit) then
+        :exit;
+    else
+        :Display "Pilihan Salah!";
+    endif;
+
+@enduml
+
+
