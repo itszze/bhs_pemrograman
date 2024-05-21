@@ -3,13 +3,13 @@
 start
 :Menu();
 if (Pilihan == "Penjumlahan") then (true)
-  :tambah();
+  :tambah(+);
 elseif (Pilihan == "Pengurangan") then (true)
-  :kurang();
+  :kurang(-);
 elseif (Pilihan == "Perkalian") then (true)
-  :kali();
+  :kali(*);
 elseif (Pilihan == "Pembagian") then (true)
-  :bagi();
+  :bagi(/);
 else (false)
   :Exit;
 endif
