@@ -1,0 +1,19 @@
+@startuml
+
+start
+:Menu();
+if (Pilihan == "Penjumlahan") then (true)
+  :tambah();
+elseif (Pilihan == "Pengurangan") then (true)
+  :kurang();
+elseif (Pilihan == "Perkalian") then (true)
+  :kali();
+elseif (Pilihan == "Pembagian") then (true)
+  :bagi();
+else (false)
+  :Exit;
+endif
+:Selesai;
+stop
+
+@enduml
