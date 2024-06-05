@@ -11,3 +11,21 @@ NB: TIDAK BOLEH ADA YANG SAMA (JIKA IDE BISNISNYA SAMA AKAN DIANGGAP GAGAL)
 
 PALING TELAT JAM 15.00
 
+jawaban :
+
+Disini saya membuat ide bisnis yaitu tas totebag, yang dimana
+Analisis Pasar
+    -Identifikasi Target Pasar : Mahasiswa, profesional muda, dll
+    -Tren dan Permintaan : Tren fashion atau kesadaran lingkungan
+    -Penelitian Kompetitif: nMenilai kekuatan dan kelemahan pesaing
+
+
+Analisis Produk
+    Deskripsi Produk: Totebag A dari Kanvas, harga Rp 100,000, stok 50 unit
+    Manfaat untuk Pelanggan:Memenuhi kebutuhan fashion dan kepraktisan sehari-hari
+
+Rencana Operasional
+    :Rantai Pasokan: Memastikan bahan baku dan produksi tepat waktu
+    :Produksi:Menyesuaikan kapasitas untuk memenuhi permintaan
+
+untuk cara proses membelinya sendiri dengan memasukkan jumlah totebag yang ingin dibeli, dan kemudian total harga dan sisa stok akan muncul, begitu.
