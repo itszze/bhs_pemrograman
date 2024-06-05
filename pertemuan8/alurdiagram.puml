@@ -1,0 +1,26 @@
+@startuml
+
+title Analisis Bisnis Totebag
+
+rectangle "Analisis Pasar" {
+    :Identifikasi Target Pasar:\nMahasiswa, profesional muda, dll.;
+    :Tren dan Permintaan:\nTren fashion atau kesadaran lingkungan.;
+    :Penelitian Kompetitif:\nMenilai kekuatan dan kelemahan pesaing.;
+}
+
+rectangle "Analisis Produk" {
+    :Deskripsi Produk:\nTotebag A dari Kanvas,\nharga Rp 100,000, stok 50 unit.;
+    :Manfaat untuk Pelanggan:\nMemenuhi kebutuhan fashion dan kepraktisan sehari-hari.;
+}
+
+rectangle "Analisis Pesaing" {
+    :Pesaing Langsung:\nProduk sejenis dengan fitur serupa.;
+    :Pesaing Tidak Langsung:\nProduk substitusi yang mempengaruhi pilihan konsumen.;
+}
+
+rectangle "Rencana Operasional" {
+    :Rantai Pasokan:\nMemastikan bahan baku dan produksi tepat waktu.;
+    :Produksi:\nMenyesuaikan kapasitas untuk memenuhi permintaan.;
+}
+
+@enduml
