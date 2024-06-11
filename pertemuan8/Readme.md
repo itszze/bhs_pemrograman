@@ -29,3 +29,7 @@ Rencana Operasional
     :Produksi:Menyesuaikan kapasitas untuk memenuhi permintaan
 
 untuk cara proses membelinya sendiri dengan memasukkan jumlah totebag yang ingin dibeli, dan kemudian total harga dan sisa stok akan muncul, begitu.
+
+include iomanip itu bagian dari library standar C++ yang berfungsi untuk mengatur format input dan output. 
+
+include string itu bagian dari library standar C++ yang menyediakan berbagai fungsi dan objek untuk manipulasi string.
