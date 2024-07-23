@@ -1,0 +1,1 @@
+Jawaban : Aplikasi dapat berkomunikasi dengan database menggunakan berbagai pustaka dan modul yang tersedia di Python. 

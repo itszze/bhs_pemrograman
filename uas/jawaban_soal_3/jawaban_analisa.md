@@ -1,0 +1,1 @@
+Jawaban : GUI (Graphical User Interface) adalah antarmuka yang memungkinkan pengguna untuk berinteraksi dengan program melalui elemen grafis seperti tombol, kotak teks, jendela, dan lainnya, daripada menggunakan baris perintah teks.
